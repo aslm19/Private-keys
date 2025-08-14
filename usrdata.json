@@ -3,6 +3,6 @@
         "device_id": "10144e25f8ac0653",
         "key": "13211810",
         "expirydate": "31-12-2025",
-        "Allowoffline": true
+        "Allowoffline": false
     }
 ]
