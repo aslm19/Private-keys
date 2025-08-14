@@ -3,12 +3,6 @@
         "device_id": "10144e25f8ac0653",
         "key": "13211810",
         "expirydate": "31-12-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "c313e2c876e00e79",
-        "key": "132118102",
-        "expirydate": "31-12-2025",
-        "Allowoffline": false
+        "Allowoffline": true
     }
 ]
