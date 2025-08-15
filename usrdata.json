@@ -26,5 +26,12 @@
         "key": "162211219",
         "expirydate": "31-12-2025",
         "Allowoffline": true
+    },
+    {
+        "name" : "Валерий",
+        "device_id": "0d5b8ba31ca016ac",
+        "key": "31136181011",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
     }
 ]
