@@ -40,5 +40,12 @@
         "key": "115518611",
         "expirydate": "31-12-2025",
         "Allowoffline": true
+    },
+    {
+        "name" : "Матвей",
+        "device_id": "9d4ce94aeb82b790",
+        "key": "141203611",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
     }
 ]
