@@ -47,5 +47,12 @@
         "key": "141203611",
         "expirydate": "31-12-2025",
         "Allowoffline": true
+    },
+    {
+        "name" : "Макс",
+        "device_id": "ce49586fba6cfd2e",
+        "key": "1411219",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
     }
 ]
