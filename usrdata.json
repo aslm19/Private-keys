@@ -54,5 +54,12 @@
         "key": "1411219",
         "expirydate": "31-12-2025",
         "Allowoffline": true
+    },
+    {
+        "name" : "Котофеич",
+        "device_id": "5714ec18848246bb",
+        "key": "121620162261025",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
     }
 ]
