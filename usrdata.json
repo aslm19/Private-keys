@@ -7,20 +7,6 @@
         "Allowoffline": true
     },
     {
-        "name" : "Марат",
-        "device_id": "624900dd87152d9f",
-        "key": "14118120",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true
-    },
-    {
-        "name" : "степ",
-        "device_id": "44ac0715bdbd1b7e",
-        "key": "1920617",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true
-    },
-    {
         "name" : "офакс",
         "device_id": "e13b3258f3d99710",
         "key": "162211219",
