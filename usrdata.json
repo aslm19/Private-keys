@@ -47,5 +47,12 @@
         "key": "121620162261025",
         "expirydate": "31-12-2025",
         "Allowoffline": true
+    },
+    {
+        "name" : "некто",
+        "device_id": "",
+        "key": "156122016",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
     }
 ]
