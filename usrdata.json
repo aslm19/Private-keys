@@ -47,5 +47,12 @@
         "key": "121620162261025",
         "expirydate": "31-12-2025",
         "Allowoffline": true
+    }, 
+    {
+        "name" : "vphoneos",
+        "device_id": "856dbf2f47b8f8f7",
+        "key": "vphoneos",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
     }
 ]
