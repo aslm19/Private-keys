@@ -54,5 +54,12 @@
         "key": "156122016",
         "expirydate": "31-12-2025",
         "Allowoffline": true
+    }, 
+    {
+        "name" : "тима",
+        "device_id": "ef8e0e0d87253a99",
+        "key": "2010141",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
     }
 ]
