@@ -6,6 +6,7 @@
         "expirydate": "31-12-2025",
         "Allowoffline": true
     },
+
     {
         "name": "офакс",
         "device_id": "8f80a2516e47c826",
@@ -13,6 +14,7 @@
         "expirydate": "31-12-2025",
         "Allowoffline": true
     },
+
     {
         "name": "Валерий",
         "device_id": "eb0cf93f602073ef",
@@ -20,6 +22,7 @@
         "expirydate": "31-12-2025",
         "Allowoffline": true
     },
+
     {
         "name": "Андрей",
         "device_id": "b1a36853e8a1bd49",
@@ -27,6 +30,7 @@
         "expirydate": "31-12-2025",
         "Allowoffline": true
     },
+
     {
         "name": "Матвей",
         "device_id": "9d4ce94aeb82b790",
@@ -34,6 +38,7 @@
         "expirydate": "31-12-2025",
         "Allowoffline": true
     },
+
     {
         "name": "макс",
         "device_id": "dd77b555ee65ec23",
@@ -41,6 +46,7 @@
         "expirydate": "31-12-2025",
         "Allowoffline": true
     },
+
     {
         "name": "Котофеич",
         "device_id": "466039cc97331913",
@@ -48,13 +54,15 @@
         "expirydate": "31-12-2025",
         "Allowoffline": true
     },
+
     {
         "name": "некто",
         "device_id": "600635122e4199db",
         "key": "156122016",
         "expirydate": "31-12-2025",
         "Allowoffline": true
-    }, 
+    },
+
     {
         "name": "тима",
         "device_id": "ef8e0e0d87253a99",
@@ -62,6 +70,7 @@
         "expirydate": "31-12-2025",
         "Allowoffline": true
     },
+
     {
         "name": "Габриэль",
         "device_id": "b7c889757d96364a",
@@ -69,10 +78,19 @@
         "expirydate": "31-12-2025",
         "Allowoffline": true
     }, 
+
     {
         "name": "Ярик",
         "device_id": "ac235060db515763",
         "key": "33181012",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+
+    {
+        "name": "Беньямин",
+        "device_id": "b7c889757d96364a",
+        "key": "4121810311330",
         "expirydate": "31-12-2025",
         "Allowoffline": true
     }
