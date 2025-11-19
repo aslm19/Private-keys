@@ -68,5 +68,12 @@
         "key": "4121810311330",
         "expirydate": "31-12-2025",
         "Allowoffline": true
+    }, 
+    {
+        "name": "Ярик",
+        "device_id": "ac235060db515763",
+        "key": "33181012",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
     }
 ]
