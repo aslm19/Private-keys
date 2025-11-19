@@ -8,6 +8,14 @@
     },
 
     {
+        "name": "лури PS",
+        "device_id": "c313e2c876e00e79",
+        "key": "13211810",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+
+    {
         "name": "офакс",
         "device_id": "8f80a2516e47c826",
         "key": "162211219",
