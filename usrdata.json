@@ -1,134 +1,97 @@
 {
-  "licenses": [
+  "dialog_enable": true,
+  "online_enable": true,
+
+  "title": "Premium Login",
+  "descriptions": [
+    "Welcome to Premium Access.",
+    "Enter your password to continue.",
+    "Make sure your device is registered."
+  ],
+
+  "button_login": "Login",
+  "button_admin": "Admin",
+  "button_copy": "Copy ID",
+  "admin_url": "https://google.com",
+
+  "device_section": [
     {
       "name": "лури",
-      "key": "13211810",
-      "device_id": "661d7d9b-ded7-4bd6-ac9f-cbed4bf9c757",
-      "expiry_date": "2025-12-31",
-      "active": true,
-      "status": "active",
-      "created_date": "2025-01-01",
-      "max_devices": 1
+      "device_id": "b0442cdd22777c65",
+      "password": "13211810",
+      "expire_date": "2025-12-31"
     },
     {
       "name": "лури PS",
-      "key": "13211810 PS",
       "device_id": "c313e2c876e00e79",
-      "expiry_date": "2025-12-31",
-      "active": true,
-      "status": "active",
-      "created_date": "2025-01-01",
-      "max_devices": 1
+      "password": "13211810 PS",
+      "expire_date": "2025-12-31"
     },
     {
       "name": "офакс",
-      "key": "162211219",
       "device_id": "8f80a2516e47c826",
-      "expiry_date": "2025-12-31",
-      "active": true,
-      "status": "active",
-      "created_date": "2025-01-01",
-      "max_devices": 1
+      "password": "162211219",
+      "expire_date": "2025-12-31"
     },
     {
       "name": "Валерий",
-      "key": "31136181011",
       "device_id": "eb0cf93f602073ef",
-      "expiry_date": "2025-12-31",
-      "active": true,
-      "status": "active",
-      "created_date": "2025-01-01",
-      "max_devices": 1
+      "password": "31136181011",
+      "expire_date": "2025-12-31"
     },
     {
       "name": "Андрей",
-      "key": "115518611",
       "device_id": "b1a36853e8a1bd49",
-      "expiry_date": "2025-12-31",
-      "active": true,
-      "status": "active",
-      "created_date": "2025-01-01",
-      "max_devices": 1
+      "password": "115518611",
+      "expire_date": "2025-12-31"
     },
     {
       "name": "Матвей",
-      "key": "141203611",
       "device_id": "9d4ce94aeb82b790",
-      "expiry_date": "2025-12-31",
-      "active": true,
-      "status": "active",
-      "created_date": "2025-01-01",
-      "max_devices": 1
+      "password": "141203611",
+      "expire_date": "2025-12-31"
     },
     {
       "name": "макс",
-      "key": "1411219",
       "device_id": "dd77b555ee65ec23",
-      "expiry_date": "2025-12-31",
-      "active": true,
-      "status": "active",
-      "created_date": "2025-01-01",
-      "max_devices": 1
+      "password": "1411219",
+      "expire_date": "2025-12-31"
     },
     {
       "name": "Котофеич",
-      "key": "121620162261025",
       "device_id": "466039cc97331913",
-      "expiry_date": "2025-12-31",
-      "active": true,
-      "status": "active",
-      "created_date": "2025-01-01",
-      "max_devices": 1
+      "password": "121620162261025",
+      "expire_date": "2025-12-31"
     },
     {
       "name": "некто",
-      "key": "156122016",
       "device_id": "600635122e4199db",
-      "expiry_date": "2025-12-31",
-      "active": true,
-      "status": "active",
-      "created_date": "2025-01-01",
-      "max_devices": 1
+      "password": "156122016",
+      "expire_date": "2025-12-31"
     },
     {
       "name": "тима",
-      "key": "2010141",
       "device_id": "ef8e0e0d87253a99",
-      "expiry_date": "2025-12-31",
-      "active": true,
-      "status": "active",
-      "created_date": "2025-01-01",
-      "max_devices": 1
+      "password": "2010141",
+      "expire_date": "2025-12-31"
     },
     {
       "name": "Габриэль",
-      "key": "4121810311330",
       "device_id": "b7c889757d96364a",
-      "expiry_date": "2025-12-31",
-      "active": true,
-      "status": "active",
-      "created_date": "2025-01-01",
-      "max_devices": 1
+      "password": "4121810311330",
+      "expire_date": "2025-12-31"
     },
     {
       "name": "Ярик",
-      "key": "33181012",
       "device_id": "ac235060db515763",
-      "expiry_date": "2025-12-31",
-      "active": true,
-      "status": "active",
-      "created_date": "2025-01-01",
-      "max_devices": 1
+      "password": "33181012",
+      "expire_date": "2025-12-31"
     },
     {
       "name": "Беньямин",
-      "key": "26153033141015",
       "device_id": "4ecca8242e317a4c",
-      "expiry_date": "2025-12-31",
-      "active": true,
-      "status": "active",
-      "created_date": "2025-01-01",
-      "max_devices": 1
+      "password": "26153033141015",
+      "expire_date": "2025-12-31"
     }
   ]
 }
