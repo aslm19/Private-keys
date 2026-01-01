@@ -3,91 +3,91 @@
         "name": "лури",
         "device_id": "b0442cdd22777c65",
         "key": "13211810",
-        "expirydate": "31-12-2025",
+        "expirydate": "01-07-2026",
         "Allowoffline": true
     },
     {
         "name": "лури PS",
         "device_id": "c313e2c876e00e79",
         "key": "13211810 PS",
-        "expirydate": "31-12-2025",
+        "expirydate": "01-07-2026",
         "Allowoffline": true
     },
     {
         "name": "офакс",
         "device_id": "8f80a2516e47c826",
         "key": "162211219",
-        "expirydate": "31-12-2025",
+        "expirydate": "01-07-2026",
         "Allowoffline": true
     },
     {
         "name": "Валерий",
         "device_id": "eb0cf93f602073ef",
         "key": "31136181011",
-        "expirydate": "31-12-2025",
+        "expirydate": "01-07-2026",
         "Allowoffline": true
     },
     {
         "name": "Андрей",
         "device_id": "b1a36853e8a1bd49",
         "key": "115518611",
-        "expirydate": "31-12-2025",
+        "expirydate": "01-07-2026",
         "Allowoffline": true
     },
     {
         "name": "Матвей",
         "device_id": "9d4ce94aeb82b790",
         "key": "141203611",
-        "expirydate": "31-12-2025",
+        "expirydate": "01-07-2026",
         "Allowoffline": true
     },
     {
         "name": "макс",
         "device_id": "dd77b555ee65ec23",
         "key": "1411219",
-        "expirydate": "31-12-2025",
+        "expirydate": "01-07-2026",
         "Allowoffline": true
     },
     {
         "name": "Котофеич",
         "device_id": "466039cc97331913",
         "key": "121620162261025",
-        "expirydate": "31-12-2025",
+        "expirydate": "01-07-2026",
         "Allowoffline": true
     },
     {
         "name": "некто",
         "device_id": "600635122e4199db",
         "key": "156122016",
-        "expirydate": "31-12-2025",
+        "expirydate": "01-07-2026",
         "Allowoffline": true
     },
     {
         "name": "тима",
         "device_id": "ef8e0e0d87253a99",
         "key": "2010141",
-        "expirydate": "31-12-2025",
+        "expirydate": "01-07-2026",
         "Allowoffline": true
     },
     {
         "name": "Габриэль",
         "device_id": "b7c889757d96364a",
         "key": "4121810311330",
-        "expirydate": "31-12-2025",
+        "expirydate": "01-07-2026",
         "Allowoffline": true
     },
     {
         "name": "Ярик",
         "device_id": "ac235060db515763",
         "key": "33181012",
-        "expirydate": "31-12-2025",
+        "expirydate": "01-07-2026",
         "Allowoffline": true
     },
     {
         "name": "Беньямин",
         "device_id": "4ecca8242e317a4c",
         "key": "26153033141015",
-        "expirydate": "31-12-2025",
+        "expirydate": "01-07-2026",
         "Allowoffline": true
     }
 ]
