@@ -14,6 +14,13 @@
         "Allowoffline": true
     },
     {
+        "name": "лури PC",
+        "device_id": "13091b4a1be9aa83",
+        "key": "13211810 PC",
+        "expirydate": "01-07-2026",
+        "Allowoffline": true
+    },
+    {
         "name": "офакс",
         "device_id": "8f80a2516e47c826",
         "key": "162211219",
