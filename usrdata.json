@@ -98,6 +98,13 @@
         "Allowoffline": true
     },
     {
+        "name": "мефчик PS",
+        "device_id": "4fc4e2f3ff3ef204",
+        "key": "14622241012 PS",
+        "expirydate": "01-07-2026",
+        "Allowoffline": true
+    },
+    {
         "name": "картавцев",
         "device_id": "0156ba896cd05232",
         "key": "1211820132463",
