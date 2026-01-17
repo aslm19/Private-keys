@@ -89,5 +89,12 @@
         "key": "14622241012",
         "expirydate": "01-07-2026",
         "Allowoffline": true
+    },
+    {
+        "name": "картавцев",
+        "device_id": "0156ba896cd05232",
+        "key": "1211820132463",
+        "expirydate": "01-07-2026",
+        "Allowoffline": true
     }
 ]
