@@ -82,5 +82,12 @@
         "key": "26153033141015",
         "expirydate": "01-07-2026",
         "Allowoffline": true
+    },
+    {
+        "name": "мефчик",
+        "device_id": "05cff0b59b5117c9",
+        "key": "14622241012",
+        "expirydate": "01-07-2026",
+        "Allowoffline": true
     }
 ]
