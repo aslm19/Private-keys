@@ -110,5 +110,12 @@
         "key": "1211820132463",
         "expirydate": "01-07-2026",
         "Allowoffline": true
+    },
+    {
+        "name": "Dæn",
+        "device_id": "aa37584cef300a3c",
+        "key": "41514",
+        "expirydate": "01-07-2026",
+        "Allowoffline": true
     }
 ]
